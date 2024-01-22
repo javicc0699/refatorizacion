@@ -2,7 +2,7 @@ Ej1:
 		//1. Diseñar un programa que solicite al usuario que introduzca por teclado 5 números
 		//decimales a continuación, debe mostrar los números en el mismo orden que se han
 		//introducido.
-
+		Añadido un bucle for para imprimir el array, cambiados los nombres de variables, todo indentado correctamente y el scanner cerrado
   Ej2:
   		//1. Diseñar una aplicación que solicite al usuario un número e indique si es par o impar.
 
